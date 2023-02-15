@@ -31,6 +31,9 @@ Based on our dataset, we will seek to answer the following research questions:
 We decided to approach these research questions from a clustering model point of view. Using the number of completed training, we will cluster employees and analyze what common features can be found amongst each group and report on factors that influence a higher training completion. From a different perspective, we will cluster training and see what common attributes can be found to gain insight into trainings that resonate well with employees. To achieve both goals, we will use two algorithms: k-means and hierarchical clustering. After evaluating the clusters with both algorithms we will compare the efficiency and performance of both algorithms.
 
 
+As we need prediction and classification, we decided to use supervised classification and use the labeled data "Employee training table". We are going to use two models for this purpose: Deep Neural Network and …… to have different results and be able to compare the performance. 
+
+
 References:
 
 [1] https://sofvie.com
