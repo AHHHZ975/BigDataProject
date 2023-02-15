@@ -40,7 +40,7 @@ References:
 
 [1] https://sofvie.com
 
-Word count: 
+Word count: 459
 
 ## Team Members 
 - Daria Denejkina
