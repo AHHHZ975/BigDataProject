@@ -1,5 +1,6 @@
 # SOEN471 - Sofvie Project 8 - Team 34
 
+### Introduction
 Training programs are crucial in many workplace environments to ensure that employees have up-to-date skills and knowledge about certain procedures. Safety training in particular greatly prevents the risk of an incident occurring by increasing awareness in the event of a possible hazard. 
 
 Sofvie [1] is a company that focuses on efficiency and employee safety by adopting a proactive approach to employee training. Our goal with this project is to evaluate the quality of training procedures by looking at training completion rates with big data driven methods.
