@@ -41,7 +41,7 @@ With clustering, we will use kmeans and hierarchical clustering algorithms to be
 With supervised classification, we will use random forests and deep neural networks to predict whether an employee will have high or low completion rate based on features that have a greater impact. We may also explore supervised regression to predict the completion rate of an employee based on past training data and employee information.
 
 
-References:
+### References:
 
 [1] https://sofvie.com
 
