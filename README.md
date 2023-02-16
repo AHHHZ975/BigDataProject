@@ -22,7 +22,7 @@ Our dataset has been provided to us in the form of various schemas and template 
 Due to receiving our dataset on quite short notice (02/13/2023), more features will come to light as we make progress. We may eventually ask Sofvie to provide us with 
 other relevant features such as ‘employee pay grade’ or ‘training duration’ that could play a role in employee willingness to complete a training.
 
-### Research Question
+### Research Questions
 Based on our dataset, we will seek to answer the following **research questions**:
 
 1. What factors increase the likelihood of an employee having higher training completion rates?
