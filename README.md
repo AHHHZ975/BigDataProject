@@ -36,9 +36,9 @@ To better understand our data, we will begin by graphing two histograms on train
 
 We will then approach our research questions both from a **clustering and a supervised classification model** point of view. 
 
-With clustering, we will use **kmeans** and **hierarchical clustering** algorithms to better define the cut-off point of both groups and analyze their common factors. From both the employee and the training perspective, we hope to gain insight on common features of motivated employees as well as common characteristics of trainings that resonate well with employees.
+With **clustering**, we will use **kmeans** and **hierarchical clustering** algorithms to better define the cut-off point of both groups and analyze their common factors. From both the employee and the training perspective, we hope to gain insight on common features of motivated employees as well as common characteristics of trainings that resonate well with employees.
 
-With supervised classification, we will use **random forests** and **deep neural networks** to predict whether an employee will have high or low completion rate based on features that have a greater impact. We may also explore supervised regression to predict the completion rate of an employee based on past training data and employee information.
+With **supervised classification**, we will use **random forests** and **deep neural networks** to predict whether an employee will have high or low completion rate based on features that have a greater impact. We may also explore supervised regression to predict the completion rate of an employee based on past training data and employee information.
 
 
 ## References:
